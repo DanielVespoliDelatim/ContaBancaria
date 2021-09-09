@@ -1,0 +1,7 @@
+D:\66\VISUALSTUDIOC#\Aula5ExFix\Aula5ExFix\bin\Debug\Aula5ExFix.exe.config
+D:\66\VISUALSTUDIOC#\Aula5ExFix\Aula5ExFix\bin\Debug\Aula5ExFix.exe
+D:\66\VISUALSTUDIOC#\Aula5ExFix\Aula5ExFix\bin\Debug\Aula5ExFix.pdb
+D:\66\VISUALSTUDIOC#\Aula5ExFix\Aula5ExFix\obj\Debug\Aula5ExFix.csprojAssemblyReference.cache
+D:\66\VISUALSTUDIOC#\Aula5ExFix\Aula5ExFix\obj\Debug\Aula5ExFix.csproj.CoreCompileInputs.cache
+D:\66\VISUALSTUDIOC#\Aula5ExFix\Aula5ExFix\obj\Debug\Aula5ExFix.exe
+D:\66\VISUALSTUDIOC#\Aula5ExFix\Aula5ExFix\obj\Debug\Aula5ExFix.pdb
